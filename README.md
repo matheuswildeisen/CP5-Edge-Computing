@@ -1,9 +1,5 @@
 # 🍷 Vinheria Agnello - Sistema IoT de Monitoramento Ambiental
 
-![Platform](https://img.shields.io/badge/Platform-ESP32-blue?logo=espressif)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
-
 ## 🧠 Descrição do Projeto
 
 Este projeto faz parte do **Checkpoint 2 de Engenharia de Software (Edge Computing & Computer Systems)** e tem como objetivo automatizar o monitoramento de uma **vinheria inteligente**, controlando **luminosidade, temperatura e umidade** em tempo real, utilizando **sensores conectados ao ESP32** e integração via **MQTT**.  
