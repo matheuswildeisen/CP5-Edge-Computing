@@ -135,12 +135,10 @@ Modo atual: AUTOMÁTICO
 
 Equipe:
 
-Matheus von Koss Wildeisen
-
-Ana Clara Rocha de Oliveira
-
-Deivid Ruan Marques
-
-Felipe Cordeiro
+Ana Clara Rocha de Oliveira – RM: 564298
+Deivid ruan Marques – RM: 566356
+Felipe Cordeiro - RM: 566518
+Matheus von koss wildeisen - RM: 561539
+Larissa Shiba Felix - RM: 560462
 
 📚 Projeto acadêmico — Engenharia de Software (Edge Computing)
